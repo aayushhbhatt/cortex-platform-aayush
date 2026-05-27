@@ -1,0 +1,65 @@
+MERIDIAN TECHNOLOGIES
+COMPANY OVERVIEW — EMPLOYEE HANDBOOK INTRODUCTION
+Document Number: CO-OV-001
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: People Operations
+Access Level: public
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WELCOME TO MERIDIAN TECHNOLOGIES
+
+Whether you are joining us for the first time or returning to this handbook as a long-tenured Meridian employee, this overview is your starting point for understanding who we are, what we build, and why it matters.
+
+WHO WE ARE
+
+Meridian Technologies was founded in 2012 in San Francisco with a simple but ambitious premise: that enterprises deserved data and AI infrastructure that was as fast, flexible, and intelligent as the decisions they needed to make. Twelve years later, we are a global company with approximately 4,800 employees across offices in San Francisco, New York, London, Singapore, and Bangalore — and we are still building.
+
+Meridian Technologies is publicly traded on the Nasdaq under the ticker symbol MRDN.
+
+OUR MISSION
+
+"Empower enterprises to move at the speed of insight."
+
+Every product we build, every customer we serve, and every decision we make at Meridian flows from this mission. We believe that the speed at which an organization can turn raw data into confident action is a defining competitive advantage — and we exist to close the gap between data and decision.
+
+WHAT WE BUILD
+
+Meridian's platform is composed of three flagship product lines:
+
+  MeridianCloud — Our enterprise data platform, enabling organizations to unify, govern, and activate data at scale. MeridianCloud powers the data infrastructure of some of the world's most data-intensive companies, from financial institutions to healthcare systems.
+
+  MeridianAI — Our machine learning tooling and AI operations platform. MeridianAI gives data science and engineering teams the tools to develop, deploy, monitor, and govern AI models in production. As enterprises accelerate their AI initiatives, MeridianAI is our fastest-growing product area.
+
+  MeridianEdge — Our IoT and edge computing platform, designed for organizations that need to process and act on data at the source — before it ever reaches a central cloud. MeridianEdge is widely deployed in manufacturing, logistics, and infrastructure sectors.
+
+OUR CUSTOMERS
+
+Meridian serves more than 40% of the Fortune 500 across industries including financial services, healthcare, retail, manufacturing, and the public sector. Our customers choose Meridian because they need enterprise-grade reliability, security, and scale — and because they trust us with their most sensitive data.
+
+OUR BUSINESS
+
+Meridian has achieved $1.2 billion in annual recurring revenue (ARR), reflecting the scale and durability of our customer relationships. As a publicly traded company, specific financial projections and targets are shared through official investor relations channels and are not distributed internally outside of authorized communications.
+
+OUR LEADERSHIP TEAM
+
+Meridian is led by an experienced executive team with deep roots in enterprise technology:
+
+  Sarah Chen, Chief Executive Officer — Sarah joined Meridian as CEO in 2018 after scaling two enterprise infrastructure companies. She is responsible for company strategy, culture, and long-term direction.
+
+  Marcus Webb, Chief Technology Officer — Marcus leads all engineering and product development at Meridian. A distributed systems researcher by training, he holds more than 30 patents in data infrastructure.
+
+  Alicia Okonkwo, Chief Financial Officer — Alicia oversees Meridian's financial operations, investor relations, and corporate strategy. She joined Meridian in 2020 from a senior role at a global technology investment firm.
+
+OUR VALUES
+
+Everything we do at Meridian is guided by four core values: Integrity, Innovation, Inclusion, and Impact. These are not aspirational — they are descriptive. They define how we hire, how we work, how we treat customers, and how we hold each other accountable.
+
+GROWING WITH MERIDIAN
+
+We believe deeply in investing in the people who build this company. Meridian offers a robust internal mobility program that encourages employees to explore new roles, teams, and disciplines across the organization. We also provide structured mentorship opportunities and a $2,000 annual learning budget to support continuous professional development.
+
+Your success at Meridian is our success. We are glad you are here.
+
+For questions about the company or how to get involved in programs and initiatives, visit the HR intranet or email hr@meridiantech.com.

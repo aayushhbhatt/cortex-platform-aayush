@@ -1,0 +1,82 @@
+MERIDIAN TECHNOLOGIES
+IT POLICY: SOFTWARE REQUEST PROCESS
+Policy Number: IT-SRP-003
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: IT Operations
+Access Level: public
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OVERVIEW
+
+All software procurement at Meridian Technologies — whether on-premise applications, cloud SaaS subscriptions, developer tooling, or browser extensions — must go through the approved IT request process. This ensures software is properly vetted for security, licensing is tracked accurately, and spend is managed appropriately.
+
+2. HOW TO SUBMIT A REQUEST
+
+All software requests are submitted through the IT Service Portal:
+
+  URL: it-portal.meridiantech.internal
+  Path: IT Service Portal > Software & Licenses > New Software Request
+
+You will be prompted to provide:
+- The name of the software and vendor
+- Business justification (1-2 sentences explaining the use case)
+- Estimated number of users
+- Annual cost estimate (if known)
+- Whether the software will handle Confidential or Restricted data
+
+3. APPROVAL TIMELINES
+
+3.1 Software on the Approved Vendor List
+If the software is already on Meridian's approved vendor list, standard provisioning takes 3–5 business days after request submission. No additional security review is required.
+
+3.2 New Vendor Evaluation
+If the software is not on the approved vendor list, a security review is required before approval. New vendor evaluations take approximately 2–4 weeks and include:
+- Vendor security questionnaire (SOC 2 report review or equivalent)
+- Data flow assessment (what data the software accesses)
+- Legal review if a new vendor agreement is required
+- Sign-off from the Information Security team
+
+Plan ahead — do not wait until a deadline to request new software.
+
+4. CLOUD SAAS PROCUREMENT THRESHOLDS
+
+For cloud SaaS subscriptions, approval authority is determined by annual contract value:
+
+  $0 – $500/year: Employee self-approval (submit request for license tracking purposes; IT will provision)
+  $501 – $5,000/year: Manager approval required in the IT Service Portal
+  $5,001+/year: Requires both IT Operations sign-off and Procurement team review
+
+Note: Even self-approved software must be submitted through the IT portal so that licenses can be tracked in ServiceNow. Purchasing SaaS subscriptions on a personal credit card and seeking reimbursement without prior IT approval is not permitted.
+
+5. LICENSE MANAGEMENT
+
+All software licenses are tracked in ServiceNow. Employees who no longer need a software license should submit a license release request via the IT portal to avoid unnecessary spend. Managers are responsible for ensuring licenses are released promptly when an employee changes roles or departs the company.
+
+License audits are conducted quarterly. Employees using software they have not been provisioned through the IT portal may have access revoked.
+
+6. APPROVED SOFTWARE LIST (EXAMPLES)
+
+The following tools are pre-approved and available for standard provisioning without additional security review:
+
+Collaboration & Communication: Slack, Zoom, Google Workspace
+Development & Engineering: GitHub, GitLab, VS Code, Datadog, PagerDuty
+Cloud Infrastructure: AWS, Google Cloud Platform (GCP), Microsoft Azure
+Design: Figma, Miro
+Project Management: Linear, Notion, Jira, Confluence
+Data & Analytics: Looker, dbt Cloud, Tableau
+Security: 1Password (teams), Okta
+
+The full approved software catalog is maintained in the IT Service Portal.
+
+7. EMERGENCY SOFTWARE REQUESTS
+
+If a software need is urgent and blocking business operations, escalate via:
+
+  Email: it-support@meridiantech.com (subject line: URGENT SOFTWARE REQUEST)
+  Slack: #it-help channel, tagging @it-oncall
+
+Emergency escalations will be triaged within 4 business hours. Emergency status does not bypass security review for new vendors, but IT will expedite the process where possible.
+
+For questions about the software request process, contact it-support@meridiantech.com.

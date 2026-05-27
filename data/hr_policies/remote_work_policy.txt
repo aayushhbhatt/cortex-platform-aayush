@@ -1,0 +1,75 @@
+MERIDIAN TECHNOLOGIES
+HR POLICY: REMOTE WORK AND HYBRID WORK
+Policy Number: HR-RW-007
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: People Operations
+Access Level: public
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. POLICY STATEMENT
+
+Meridian Technologies supports flexible working arrangements that enable employees to do their best work while maintaining collaboration, security, and operational effectiveness. This policy defines the framework for hybrid and remote work at Meridian.
+
+2. STANDARD HYBRID ARRANGEMENT
+
+The default working model for employees based near a Meridian office is a hybrid schedule requiring a minimum of 3 days per week in the office and allowing up to 2 days per week of remote work. Office days are generally expected to align with team norms set by the direct manager. Employees should not schedule remote days unilaterally during key collaborative periods such as team offsites, onboarding weeks, or all-hands events.
+
+Employees are expected to be present in office on Tuesdays and Thursdays by default unless their manager has established a different team cadence in writing.
+
+3. FULLY REMOTE ELIGIBILITY
+
+Fully remote arrangements (fewer than 3 days per week in office, or no office presence) are available on a role-dependent basis and require prior written approval from both the direct manager and the relevant HR Business Partner. Factors considered include:
+
+- Whether the role requires in-person collaboration or client interaction
+- The employee's tenure and performance history
+- The team's existing remote/hybrid composition
+- Business operational needs
+
+Fully remote employees are expected to travel to a Meridian office at least once per quarter for team meetings or company events, with reasonable travel costs covered by the company.
+
+4. HOME OFFICE STIPEND
+
+Meridian provides the following financial support for eligible employees working from home:
+
+- One-time home office setup stipend: $800 (claimed via expense report within 90 days of approval)
+- Monthly internet reimbursement: $50/month (submitted monthly via expense report with supporting receipt)
+
+These stipends apply to employees in a hybrid or fully remote arrangement. Receipts are required for reimbursement. The one-time stipend may be used for furniture, monitors, accessories, or other home office equipment at the employee's discretion.
+
+5. CORE HOURS
+
+All employees — regardless of work location — are required to be available and responsive during core business hours of 10:00 AM to 3:00 PM in their local timezone. During core hours, employees are expected to:
+
+- Be reachable on Slack within 15 minutes
+- Be available for video calls with reasonable notice
+- Have their status accurately reflected in communication tools
+
+Outside of core hours, employees have flexibility in scheduling their work, subject to meeting deadlines and attending required meetings.
+
+6. EQUIPMENT POLICY
+
+Meridian provides all full-time employees with a company-issued laptop and a standard peripheral kit (monitor, keyboard, mouse, and headset) for home use. Employees may request alternative equipment through the IT Service Portal if accessibility needs or role requirements warrant it. Company equipment must be used for work-related activities and is subject to all IT security policies.
+
+Employees are responsible for the safekeeping of company equipment. Lost or damaged equipment due to negligence may result in cost recovery.
+
+7. SECURITY REQUIREMENTS
+
+Remote work introduces heightened security considerations. All remote employees must:
+
+- Connect to the Meridian VPN for any access to internal systems or Confidential/Restricted data
+- Avoid conducting sensitive work over public or unsecured Wi-Fi networks (coffee shops, airports, hotels). Use a mobile hotspot or VPN at minimum
+- Maintain a physically secure workspace — do not conduct confidential meetings where others may overhear
+- Keep company laptops locked when unattended and enable full disk encryption (configured by IT by default)
+- Report any security incidents to it-security@meridiantech.com immediately
+
+8. PERFORMANCE EXPECTATIONS
+
+Remote work is a privilege, not an entitlement, and remote employees are held to the same performance standards as in-office employees. Managers evaluate performance based on outcomes, not physical presence. Failure to meet performance expectations is not mitigated by remote status.
+
+9. INTERNATIONAL REMOTE WORK
+
+Employees may request to work remotely from a country other than their primary work country for a maximum of 90 calendar days per year. Such requests must be submitted to HR at least 30 days in advance. Employees are responsible for ensuring their arrangement complies with applicable visa and work authorization requirements. Tax implications may arise when working abroad, and Meridian strongly recommends employees consult a tax advisor. Meridian does not assume tax liability for international remote work arrangements.
+
+For questions about this policy, contact hr@meridiantech.com or your HR Business Partner.

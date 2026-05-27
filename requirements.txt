@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-openai
+pydantic
+python-dotenv
+redis
+psycopg[binary]
+pgvector
+rank-bm25
+numpy
+pytest
+pytest-mock
+tenacity
+structlog
+streamlit
+openai
+pyyaml

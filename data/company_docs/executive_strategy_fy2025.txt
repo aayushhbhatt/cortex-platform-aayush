@@ -1,0 +1,117 @@
+MERIDIAN TECHNOLOGIES
+FY2025 EXECUTIVE STRATEGY — INTERNAL PLANNING DOCUMENT
+
+STRICTLY CONFIDENTIAL — EXECUTIVE LEVEL ACCESS ONLY
+CLASSIFICATION: RESTRICTED
+Document Number: EXEC-STRAT-2025
+Effective Date: January 1, 2025
+Prepared By: Office of the CEO
+Distribution: CEO, CTO, CFO, CPO, CRO, CHRO, CLO, and Board of Directors ONLY
+
+THIS DOCUMENT IS FOR EXECUTIVE LEADERSHIP AND BOARD ACCESS ONLY.
+Unauthorized distribution, printing, or discussion of the contents of this document outside of
+authorized executive channels is a violation of company policy and may constitute a breach of
+fiduciary duty. Do not forward, screenshot, or excerpt without explicit approval from the CEO.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXECUTIVE SUMMARY
+
+FY2025 is a pivotal year for Meridian Technologies. Having crossed $1.2B ARR and achieved meaningful scale across all three product lines, the company enters this fiscal year with a mandate to accelerate into enterprise AI, expand our APAC market footprint, and demonstrate the operating discipline required to reach sustained profitability. The initiatives outlined in this document represent the board-aligned priorities that will define Meridian's trajectory through FY2025 and position us for IPO readiness by 2027.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRATEGIC PRIORITY 1: ENTERPRISE AI PLATFORM LAUNCH — TARGET Q2 FY2025
+
+MeridianAI will be repositioned and relaunched as an integrated Enterprise AI Platform in Q2 FY2025. This is our highest-priority product initiative of the year. The relaunch bundles AI model development, deployment orchestration, governance, and monitoring into a unified platform experience, directly competing with fragmented offerings from incumbent players.
+
+Key milestones:
+- GA release of MeridianAI Platform v3.0: April 30, 2025
+- Anchor customer commitments (10+ enterprise logos): Secured by March 31, 2025
+- Integrated marketing campaign launch: May 1, 2025
+- Initial ARR target from AI Platform: $150M by year-end
+
+CTO Marcus Webb owns technical delivery. CRO owns go-to-market execution. The CEO will personally sponsor the top-5 anchor customer relationships.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRATEGIC PRIORITY 2: APAC EXPANSION
+
+The Asia-Pacific market represents our largest untapped opportunity. Meridian's current APAC presence — centered on our Singapore office with approximately 300 employees — is insufficient to capture the market growth we are targeting.
+
+FY2025 APAC objectives:
+- Expand Singapore headcount from 300 to 500, focused on sales, customer success, and regional engineering
+- Open a new office in Tokyo by Q3 2025 (real estate LOI signed; buildout in progress)
+- Achieve $120M in APAC ARR by year-end (up from $68M in FY2024)
+- Establish a Meridian Government Cloud offering to qualify for APAC public sector procurement
+
+The CRO will appoint a dedicated APAC General Manager no later than February 15, 2025. This is a board-flagged hire; candidates must be reviewed by the CEO before offer.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRATEGIC PRIORITY 3: PROFITABILITY MILESTONE — 20% OPERATING MARGIN BY Q4
+
+The Board has set a clear expectation: Meridian will demonstrate a 20% non-GAAP operating margin by Q4 FY2025. This is a prerequisite for IPO readiness. Achieving this requires simultaneous revenue growth and cost discipline.
+
+Cost levers:
+- Net headcount growth capped at 400 new employees (net of attrition) for FY2025
+- Hiring freeze imposed on non-core functions: G&A, facilities, and non-revenue-generating support roles. Exceptions require CFO approval.
+- 15% reduction in external contractor spend across engineering by Q2
+- Real estate consolidation: sublease 2 floors of New York office; evaluate San Francisco HQ footprint for right-sizing in Q3
+
+Revenue levers:
+- Expand NRR (net revenue retention) target from 118% to 125%
+- Accelerate MeridianCloud platform tier upsell motion
+- Reduce average sales cycle from 94 days to 75 days through improved PLG (product-led growth) motions
+
+CFO Alicia Okonkwo owns the operating margin OKR. Monthly reporting to the Board begins February 2025.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+C-SUITE OKRs — FY2025
+
+CEO (Sarah Chen):
+- OKR 1: Close 3 strategic partnerships (hyperscaler co-sell agreements) by Q2
+- OKR 2: Achieve Employee Engagement Score of 80+ (FY2024: 74)
+- OKR 3: Maintain executive team retention at 100% through year-end
+
+CTO (Marcus Webb):
+- OKR 1: Ship MeridianAI Platform v3.0 on schedule with <2 P0 post-launch incidents
+- OKR 2: Reduce infrastructure cost per unit of compute by 20%
+- OKR 3: Achieve SOC 2 Type II renewal + ISO 27001 certification by Q3
+
+CFO (Alicia Okonkwo):
+- OKR 1: 20% non-GAAP operating margin by Q4
+- OKR 2: Maintain 18+ months of runway; refinancing of existing credit facility by Q2
+- OKR 3: Complete IPO readiness audit with external advisors by Q4
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+M&A PIPELINE
+
+The Corporate Development team is currently evaluating two acquisition targets in the AI/ML infrastructure space. Target names are redacted from this document; refer to Project Falcon and Project Stratus briefing materials (distributed separately to CEO, CFO, and General Counsel only). Both targets are pre-LOI. The Board has authorized a combined acquisition budget of up to $400M for FY2025, subject to Board vote on each transaction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COMPETITIVE POSITIONING
+
+Meridian competes directly with Databricks, Snowflake, and Palantir across various segments:
+
+- vs. Databricks: Compete on governance, multi-cloud neutrality, and the integrated AI platform narrative. Databricks' lakehouse architecture is strong; our differentiation is enterprise-grade security and compliance depth.
+- vs. Snowflake: Compete on AI/ML-native capabilities and real-time data processing. Snowflake's data sharing ecosystem is formidable; we must invest in partner ecosystem development to counter.
+- vs. Palantir: Compete in regulated industries (government, healthcare, financial services) on ease of deployment and total cost of ownership. Palantir's brand in government is strong; our path is through commercial enterprise first, then adjacent public sector.
+
+Competitive intelligence briefings are provided quarterly by the Product Marketing team to ELT only.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BOARD EXPECTATIONS: IPO READINESS BY 2027
+
+The Board has formally adopted a planning horizon for an initial public offering in 2027, contingent on sustained financial performance, market conditions, and the resolution of any outstanding regulatory or structural matters. FY2025 and FY2026 are therefore "proving years." Internal milestones required before IPO process initiation include:
+
+- Two consecutive years of 20%+ non-GAAP operating margin
+- ARR exceeding $2B
+- Completion of Big 4 audit partnership and SOX readiness program
+- Establishment of an independent Audit Committee with full compliance infrastructure
+
+This document is to be treated as Restricted. Questions should be directed to the Office of the CEO.

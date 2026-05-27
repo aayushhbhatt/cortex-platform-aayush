@@ -1,0 +1,13 @@
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  pgvector:
+    image: ankane/pgvector
+    environment:
+      POSTGRES_PASSWORD: cortex123
+      POSTGRES_DB: cortex
+    ports:
+      - "5432:5432"

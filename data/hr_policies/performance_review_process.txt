@@ -1,0 +1,121 @@
+MERIDIAN TECHNOLOGIES
+HR POLICY: PERFORMANCE REVIEW PROCESS
+Policy Number: HR-PR-002
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: People Operations
+Access Level: public
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OVERVIEW
+
+Meridian Technologies maintains a structured performance review process to ensure every employee receives meaningful, consistent, and actionable feedback. Our review framework is designed to recognize high performance, support development, and align individual contributions with company objectives.
+
+2. REVIEW CYCLE
+
+2.1 Annual Performance Review — January
+
+The primary performance review takes place each January, covering performance from the prior calendar year (January 1 – December 31). This review informs compensation decisions, promotion recommendations, and development planning. Results are typically communicated to employees by the end of February.
+
+2.2 Mid-Year Check-In — July
+
+A structured mid-year check-in is conducted each July. This is not a formal rating cycle, but a documented coaching conversation between manager and employee to:
+- Assess progress toward annual goals
+- Identify any performance concerns early
+- Adjust goals if business priorities have shifted
+- Confirm development plans remain on track
+
+Mid-year check-in forms must be completed in Workday by July 31 each year.
+
+3. 360-DEGREE FEEDBACK PROCESS
+
+Meridian's annual review incorporates 360-degree feedback to provide employees with a holistic view of their performance. The process works as follows:
+
+- Employees self-identify 4–6 peers, stakeholders, or cross-functional partners as feedback respondents
+- Managers review and may adjust the respondent list to ensure balanced input
+- Feedback is collected via anonymous survey through Workday (open for 2 weeks in November)
+- Feedback responses are aggregated and shared with the employee's manager prior to the review conversation
+- Managers synthesize 360 feedback with their own observations to inform the final rating
+
+Employees are also expected to complete a self-assessment evaluating their own performance against their goals.
+
+4. RATING SCALE
+
+All employees receive a formal performance rating during the annual review. Meridian uses the following five-point scale:
+
+  EXCEPTIONAL
+  Reserved for employees who substantially exceed all expectations, demonstrate extraordinary impact, and consistently operate above their level. Typically fewer than 10% of employees receive this rating.
+
+  EXCEEDS EXPECTATIONS
+  For employees who consistently surpass their goals, contribute beyond their defined scope, and model company values. Typically 20–25% of the employee population.
+
+  MEETS EXPECTATIONS
+  The standard of solid, effective performance. Employees who deliver on their commitments, meet goals, and demonstrate the behaviors expected at their level. The majority of employees (typically 50–60%) receive this rating.
+
+  NEEDS IMPROVEMENT
+  For employees who are falling short of expectations in one or more meaningful areas. This rating triggers a structured development conversation and may lead to a Performance Improvement Plan.
+
+  UNSATISFACTORY
+  Reserved for employees whose performance significantly fails to meet expectations across multiple dimensions. This rating requires immediate action and typically initiates a formal PIP or separation process.
+
+5. CALIBRATION SESSIONS
+
+To ensure fairness and consistency across teams, all manager-assigned ratings undergo a calibration review before being finalized. Calibration is conducted at the department level, facilitated by HR Business Partners. During calibration:
+
+- Managers present their proposed ratings and supporting rationale
+- Cross-functional leaders discuss outlier ratings (Exceptional and Unsatisfactory)
+- Forced distribution guidelines are applied to prevent grade inflation
+- Final ratings are approved by the department VP or equivalent
+
+Ratings are not finalized, communicated to employees, or entered into Workday until calibration is complete.
+
+6. COMPENSATION LINKAGE
+
+Annual performance ratings directly inform merit increase decisions, which are applied effective April 1 each year. The following ranges apply:
+
+- Exceptional: 10–15% merit increase
+- Exceeds Expectations: 6–9% merit increase
+- Meets Expectations: 2–5% merit increase
+- Needs Improvement: 0% merit increase (no increase)
+- Unsatisfactory: 0% merit increase; compensation review may result in adjustment
+
+Bonus payouts, where applicable, are also modeled against performance ratings. Managers do not have unilateral authority to set compensation changes; all increases must be reviewed and approved by the HR Compensation team.
+
+7. PERFORMANCE IMPROVEMENT PLAN (PIP)
+
+A formal Performance Improvement Plan is triggered when an employee receives a "Needs Improvement" rating in two consecutive annual review cycles, or at any time when performance concerns are sufficiently serious to warrant formal intervention. PIPs are developed collaboratively by the manager, HR Business Partner, and employee, and include:
+
+- Specific performance gaps to be addressed
+- Measurable goals and success criteria
+- A defined improvement timeline (typically 60–90 days)
+- Scheduled check-in meetings (minimum bi-weekly)
+
+Failure to meet PIP objectives may result in further disciplinary action, up to and including separation of employment.
+
+8. RESPONSIBILITIES
+
+Manager Responsibilities:
+- Deliver timely, honest, and substantive written performance reviews
+- Conduct review conversations in a private, respectful setting
+- Gather and incorporate 360 feedback appropriately
+- Participate in calibration and advocate fairly for their team
+
+Employee Responsibilities:
+- Complete self-assessment by the stated deadline
+- Identify and confirm feedback respondents on time
+- Engage constructively in the review conversation
+- Own development actions agreed upon during the review
+
+9. KEY DATES (ANNUAL CYCLE)
+
+October 15 — Goal-setting for next year begins
+November 1 — 360 feedback surveys open
+November 15 — 360 feedback surveys close
+December 1 — Self-assessments due in Workday
+December 15 — Manager assessments due in Workday
+January — Calibration sessions (dates set by HR)
+February — Review conversations and rating communication
+April 1 — Merit increases effective
+
+For questions, contact your HR Business Partner or email hr@meridiantech.com.

@@ -1,0 +1,132 @@
+MERIDIAN TECHNOLOGIES
+MANAGER HANDBOOK — LEADERSHIP GUIDE
+Document Number: CO-MH-003
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: People Operations
+Access Level: manager
+
+THIS DOCUMENT IS FOR MANAGERS AND ABOVE ONLY.
+This guide contains guidance on compensation conversations, performance management, and
+people processes intended for those with direct reporting relationships. If you have received
+this document in error, contact hr@meridiantech.com.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INTRODUCTION
+
+Being a manager at Meridian Technologies carries significant responsibility — and significant opportunity. You are the primary interface between the company's strategy and the people who execute it. This handbook is designed to give you the practical guidance, process knowledge, and resource pointers you need to lead effectively.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. HIRING PROCESS
+
+When you need to add headcount to your team, the process works as follows:
+
+Step 1 — Headcount Approval: Submit a headcount request in Workday for Finance and HR approval. Be prepared to provide business justification, role level, and estimated start date. Headcount is approved at the VP level or above.
+
+Step 2 — Job Description Creation: Work with your assigned recruiter to develop a job description. Recruiting maintains standard templates; you provide the role-specific requirements. All JDs must be reviewed by HR before posting.
+
+Step 3 — Recruiting Partnership: Once the JD is approved, your recruiter will open the role in Greenhouse (our ATS) and begin sourcing. You will review and approve candidate profiles before they are advanced to interviews. Leverage the employee referral program — referred candidates typically convert at 3x the rate of cold applicants.
+
+Step 4 — Four-Stage Interview Process: Meridian uses a structured four-stage interview process:
+  (1) Recruiter screen (30 min)
+  (2) Hiring manager interview (45-60 min)
+  (3) Technical/skills assessment or panel interview (60-90 min)
+  (4) Final round with cross-functional stakeholders (45 min each)
+
+Debrief sessions are held after each stage. All feedback must be submitted in Greenhouse within 24 hours of the interview. Do not discuss candidate assessments informally outside of structured debriefs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. ONBOARDING NEW HIRES
+
+A great first impression sets the foundation for long-term success. Your responsibilities as a hiring manager include:
+
+DAY 1:
+- Ensure laptop and accounts are provisioned (confirm with IT at least 5 business days prior)
+- Send a welcome message before their first day
+- Meet with the new hire in person or via video for at least 30 minutes
+- Walk them through their first week agenda
+- Introduce them to the team (team introduction channel post encouraged)
+
+WEEK 1:
+- Schedule 1:1s with key teammates and cross-functional partners the new hire will work with
+- Share team norms document (if you don't have one, now is the time to create one)
+- Ensure new hire completes all required compliance training in Workday (due within 30 days)
+- Review role expectations and 30/60/90-day plan together
+
+MONTH 1:
+- Conduct a formal 30-day check-in: How are they settling in? What's unclear?
+- Confirm they have access to all tools and systems they need
+- Identify any early development or support needs
+- Connect them with the mentorship program if applicable
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. 1:1 CADENCE
+
+Weekly 1:1s of at least 30 minutes are the recommended standard at Meridian. Biweekly 1:1s are the minimum acceptable cadence. 1:1s are the employee's time — come prepared with an agenda but let the employee drive it. Use this time to:
+- Understand blockers and provide support
+- Give informal, real-time feedback
+- Discuss career development and growth
+- Build trust and psychological safety
+
+Document key discussion points and any commitments in a shared 1:1 doc. Avoid using 1:1 time purely for status updates — that is what async tools are for.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. PERFORMANCE CONVERSATIONS
+
+Great managers provide feedback continuously, not just at review time. Key principles:
+
+- No surprises: If there is a performance concern, the employee should know about it well before the annual review. Surfacing a "Needs Improvement" rating in January without prior coaching conversations is a management failure, not a performance failure.
+- Be specific: Feedback tied to observable behavior and business impact is actionable. Vague feedback ("needs to be more proactive") is not.
+- Document conversations: Keep brief notes of coaching conversations in a private document. This protects both you and the employee if formal action becomes necessary later.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. COMPENSATION CONVERSATIONS
+
+Managers play an important role in compensation conversations but do not set compensation unilaterally. The process:
+
+- During annual review season, HR will provide each manager with a compensation planning worksheet showing current salaries, market ranges, and merit increase budgets for their team.
+- Managers submit recommendations for merit increases within the approved budget range.
+- All recommendations are reviewed by HR Compensation and approved by the department VP.
+- Managers communicate compensation outcomes to their direct reports after final approval — never before.
+
+Do not speculate with employees about potential increases or make any informal commitments about compensation outside of the formal process.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. HANDLING UNDERPERFORMANCE
+
+When an employee is not meeting expectations, act early. The underperformance path at Meridian is:
+
+Step 1 — Document and coach: Have a direct conversation with the employee about the specific performance gap. Document the conversation and your coaching actions.
+
+Step 2 — Formal coaching plan: If informal coaching is not producing improvement after 4–6 weeks, work with your HR Business Partner to establish a formal written coaching plan with clear expectations, timelines, and check-ins.
+
+Step 3 — Performance Improvement Plan (PIP): If the coaching plan does not result in sufficient improvement, initiate a formal PIP in partnership with HR. PIPs typically run 60–90 days and include documented goals, biweekly check-ins, and a clear improvement threshold.
+
+Step 4 — Separation: If the employee does not meet PIP objectives, the next step may be separation of employment. This must be managed in close coordination with HR and Legal. Do not communicate separation decisions to the employee before confirming the process with HR.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. TEAM BUILDING BUDGET
+
+Each manager receives a team-building budget of $50 per person per quarter to be used for team events, celebrations, or shared experiences. This budget is managed through your department's cost center. Submit expenses in Concur under "Team Building." Unused quarterly budget does not roll over.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. ESCALATION PATHS
+
+Know when and how to escalate:
+
+- People issues (conflict, harassment, accommodation requests, leave): Contact your HR Business Partner immediately. Do not attempt to mediate harassment complaints yourself.
+- Legal and contract matters: Contact legal@meridiantech.com. Do not sign contracts or make binding commitments on behalf of Meridian without Legal review.
+- Budget overages or unplanned spend: Contact your Finance Business Partner before incurring the expense whenever possible.
+- Security incidents involving your team: Notify it-security@meridiantech.com immediately.
+- Ethics concerns: Use the ethics hotline (1-800-555-0190) or ethics@meridiantech.com.
+
+For general questions, contact your HR Business Partner or email hr@meridiantech.com.

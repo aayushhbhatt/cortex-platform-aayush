@@ -1,0 +1,72 @@
+[
+  {
+    "query": "How much parental leave do primary caregivers receive?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["parental_leave_policy"],
+    "relevant_chunk_id_prefixes": ["parental_leave_policy"],
+    "notes": "Expected to retrieve parental leave policy."
+  },
+  {
+    "query": "What are the company's rules for remote work schedules?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["remote_work_policy"],
+    "relevant_chunk_id_prefixes": ["remote_work_policy"],
+    "notes": "Expected to retrieve remote work policy details."
+  },
+  {
+    "query": "Where can I find compensation and benefits information?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["compensation_and_benefits"],
+    "relevant_chunk_id_prefixes": ["compensation_and_benefits"],
+    "notes": "Expected to retrieve compensation and benefits content."
+  },
+  {
+    "query": "How does the performance review process work?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["performance_review_process"],
+    "relevant_chunk_id_prefixes": ["performance_review_process"],
+    "notes": "Expected to retrieve performance review process document."
+  },
+  {
+    "query": "What are the data security guidelines for handling sensitive data?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["data_security_guidelines"],
+    "relevant_chunk_id_prefixes": ["data_security_guidelines"],
+    "notes": "Expected to retrieve IT security guidelines."
+  },
+  {
+    "query": "What is the acceptable use policy for company systems?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["acceptable_use_policy"],
+    "relevant_chunk_id_prefixes": ["acceptable_use_policy"],
+    "notes": "Expected to retrieve acceptable use policy content."
+  },
+  {
+    "query": "How do I request new software for my team?",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["software_request_process"],
+    "relevant_chunk_id_prefixes": ["software_request_process"],
+    "notes": "Expected to retrieve software request process."
+  },
+  {
+    "query": "Give me a high level company overview.",
+    "user_tier": "standard",
+    "relevant_doc_ids": ["company_overview"],
+    "relevant_chunk_id_prefixes": ["company_overview"],
+    "notes": "Expected to retrieve company overview."
+  },
+  {
+    "query": "What guidance is in the manager handbook for people leadership?",
+    "user_tier": "manager",
+    "relevant_doc_ids": ["manager_handbook"],
+    "relevant_chunk_id_prefixes": ["manager_handbook"],
+    "notes": "Manager-tier case for manager handbook retrieval."
+  },
+  {
+    "query": "What are this year's executive strategic priorities?",
+    "user_tier": "exec",
+    "relevant_doc_ids": ["executive_strategy_fy2025"],
+    "relevant_chunk_id_prefixes": ["executive_strategy_fy2025"],
+    "notes": "Exec-tier case for executive strategy retrieval."
+  }
+]

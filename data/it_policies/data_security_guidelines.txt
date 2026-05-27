@@ -1,0 +1,112 @@
+MERIDIAN TECHNOLOGIES
+IT POLICY: DATA SECURITY GUIDELINES
+Policy Number: IT-DSG-002
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: Information Security
+Access Level: general
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PURPOSE
+
+This document provides detailed guidance on how employees must handle Meridian Technologies' data based on its classification level. All employees who access, process, store, or transmit company data are responsible for complying with these guidelines. Violations may result in disciplinary action and, where applicable, legal liability.
+
+2. DATA CLASSIFICATION DEFINITIONS AND EXAMPLES
+
+Meridian uses a four-tier data classification framework:
+
+  PUBLIC
+  Definition: Information that has been explicitly approved for release to the general public.
+  Examples: Product marketing materials, press releases, published blog posts, public API documentation, job postings.
+  Handling: No special restrictions. May be shared freely.
+
+  INTERNAL
+  Definition: Information intended for use within Meridian only. Disclosure outside the company could be mildly harmful or embarrassing.
+  Examples: Internal policies and procedures, all-hands meeting recordings, org charts, internal project names, employee directories.
+  Handling: Do not share externally without explicit business need. Store on Meridian-approved systems only.
+
+  CONFIDENTIAL
+  Definition: Sensitive business information whose unauthorized disclosure could cause material harm to Meridian, its customers, or its partners.
+  Examples: Customer contracts and SLAs, non-public financial data, product roadmaps, source code, vendor agreements, HR records, legal documents, security vulnerability reports.
+  Handling: See Section 3. Encryption required. VPN required for remote access. Access on a need-to-know basis.
+
+  RESTRICTED
+  Definition: Highest classification. Information that is highly sensitive and whose unauthorized disclosure could cause severe harm to Meridian or individuals.
+  Examples: M&A materials, executive communications and strategy documents, board materials, HR investigation records, personal health information, system access credentials, encryption keys.
+  Handling: See Section 4. Strictly controlled access. All access logged. Manager or above approval required.
+
+3. HANDLING CONFIDENTIAL DATA
+
+Employees with legitimate access to Confidential data must adhere to the following:
+
+- Encryption at rest: All Confidential data stored on endpoints, servers, or cloud storage must be encrypted using AES-256 encryption. Company laptops are encrypted by default; do not disable this.
+- Encryption in transit: Confidential data transmitted over any network must use TLS 1.3 or equivalent. Do not send Confidential data via unencrypted channels (e.g., plain email without encryption, unencrypted FTP).
+- VPN required: Access to Confidential data from outside a Meridian office network requires connection to the Meridian VPN at all times.
+- No personal cloud storage: Confidential data must not be stored in personal cloud accounts (e.g., personal Google Drive, Dropbox, iCloud). Use only Meridian-approved storage solutions.
+- Access control: Confidential data should be shared only with individuals who have a clear business need. Use role-based access controls and avoid broadly shared links.
+
+4. HANDLING RESTRICTED DATA
+
+In addition to all Confidential data handling requirements, Restricted data is subject to:
+
+- Approved systems only: Restricted data may only be processed or stored on systems explicitly approved for Restricted data handling. Consult IT Security for the current approved systems list.
+- Access authorization: Access to Restricted data requires explicit manager or above approval documented in ServiceNow or via email to the data owner.
+- Access logging: All access to Restricted data is logged and subject to audit. Employees should assume all access is recorded.
+- No forwarding or copying: Restricted data must not be forwarded, copied, or excerpted outside of authorized systems without Legal approval.
+
+NOTE ON EXECUTIVE COMMUNICATIONS: All communications from or between members of the Executive Leadership Team (CEO, CTO, CFO, and direct reports) are classified as Restricted by default, regardless of content. This includes emails, Slack messages, meeting notes, and documents authored or shared at the executive level.
+
+5. ENCRYPTION STANDARDS
+
+Meridian mandates the following encryption standards across all systems:
+
+- Data at rest: AES-256 (minimum)
+- Data in transit: TLS 1.3 (minimum); TLS 1.2 is tolerated for legacy systems pending upgrade, TLS 1.1 and below are prohibited
+- Key management: Encryption keys are managed through Meridian's centralized key management service. Employees must not generate or manage their own encryption keys for company data without IT Security approval.
+
+6. DATA RETENTION SCHEDULE
+
+Data must be retained for business and legal compliance purposes according to the following schedule:
+
+- Financial records: 7 years from the date of the transaction or document creation
+- HR and employment records: 3 years from the date of employee departure
+- Customer contracts: 7 years from contract expiration
+- Application and system logs: 1 year (automated deletion enforced by IT)
+- Email: 3 years (unless subject to a legal hold)
+- Legal hold data: Retained indefinitely until hold is lifted by Legal
+
+Data that has exceeded its retention period must be securely deleted (not merely moved to Trash). Contact IT for secure deletion tools and procedures.
+
+7. DATA RESIDENCY
+
+Meridian operates under data residency obligations that govern where data may be physically stored:
+
+- EU customer data: Must remain in Meridian's EU-region cloud infrastructure at all times. Transferring EU customer data outside the EU requires explicit approval from Legal and compliance with applicable data transfer mechanisms (e.g., Standard Contractual Clauses).
+- US customer data: Stored in US-region infrastructure by default; cross-border transfer requires Legal approval.
+- When in doubt about data residency requirements, consult Legal before transferring data across geographic boundaries.
+
+8. THIRD-PARTY DATA SHARING
+
+Sharing Meridian or customer data with third parties (vendors, partners, contractors) requires:
+
+1. A signed Data Processing Agreement (DPA) with the third party
+2. Completion of Meridian's vendor security questionnaire (for Confidential or Restricted data)
+3. Legal review and sign-off
+4. IT Security approval for any system-level integrations
+
+Employees must not share Confidential or Restricted data with third parties informally or without following this process. Contact legal@meridiantech.com to initiate a third-party data sharing review.
+
+9. BREACH NOTIFICATION AND INCIDENT RESPONSE
+
+In the event of a confirmed or suspected data breach:
+
+- Step 1: Immediately notify the Information Security team at it-security@meridiantech.com or ext. 5911. Do this within 1 hour of discovery, even if you are uncertain.
+- Step 2: Preserve evidence — do not delete files, wipe systems, or alter anything that could be relevant to the investigation.
+- Step 3: Do not attempt to investigate or remediate the breach yourself — let the Security team lead.
+- Step 4: The Information Security team, in coordination with Legal, will conduct a root cause investigation within 72 hours.
+- Step 5: If the breach involves personal data, Legal will determine notification obligations. Affected users will be notified within 72 hours of confirmation, in compliance with applicable regulations (GDPR, CCPA, and other applicable law).
+
+Failure to report a known or suspected breach promptly is a serious policy violation and may constitute a legal breach of regulatory obligations.
+
+For questions about data security, contact it-security@meridiantech.com.

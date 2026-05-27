@@ -1,0 +1,87 @@
+MERIDIAN TECHNOLOGIES
+IT POLICY: ACCEPTABLE USE POLICY
+Policy Number: IT-AUP-001
+Effective Date: January 1, 2024
+Last Reviewed: January 1, 2024
+Document Owner: Information Security
+Access Level: public
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PURPOSE
+
+This Acceptable Use Policy (AUP) governs the use of Meridian Technologies' information systems, networks, devices, and digital resources. It applies to all employees, contractors, vendors, and any third parties granted access to Meridian systems. Compliance with this policy is required as a condition of access.
+
+2. PERMITTED AND LIMITED USE
+
+Company equipment and systems are provided primarily for legitimate business purposes. Limited personal use is permitted provided it:
+
+- Does not interfere with job performance or company operations
+- Does not consume significant network bandwidth or storage
+- Does not violate any other provision of this policy or applicable law
+
+Employees should have no expectation that personal use of company systems is private (see Section 7).
+
+3. PROHIBITED ACTIVITIES
+
+The following activities are strictly prohibited on Meridian systems, networks, or devices:
+
+- Software piracy: Installing, downloading, or distributing unlicensed or pirated software
+- Cryptocurrency mining: Using company resources to mine cryptocurrency of any kind
+- Hacking or intrusion tools: Possessing or deploying tools designed for unauthorized system access, network scanning for malicious purposes, or exploitation
+- Adult or inappropriate content: Accessing, storing, or distributing pornographic, hateful, or otherwise offensive material
+- Unauthorized data transfer: Moving Confidential or Restricted data to personal devices, personal cloud storage, or external parties without authorization
+- Circumventing security controls: Attempting to disable, bypass, or modify security configurations, VPN requirements, or endpoint controls
+
+Violations may result in immediate suspension of system access and disciplinary action up to and including termination.
+
+4. DATA CLASSIFICATION
+
+All data at Meridian is classified into one of four categories. Employees are responsible for handling data in accordance with its classification:
+
+  PUBLIC — Information approved for public release (e.g., press releases, product documentation). No handling restrictions.
+
+  INTERNAL — Information for use within Meridian only. Not for external sharing without authorization (e.g., internal policies, org charts, meeting recordings).
+
+  CONFIDENTIAL — Sensitive business information that could cause harm if disclosed (e.g., customer contracts, financial data, product roadmaps). Requires encryption and access controls.
+
+  RESTRICTED — Highest sensitivity. Access is limited to named individuals with explicit authorization (e.g., M&A materials, executive communications, HR investigation records). Strict controls apply; see Data Security Guidelines for handling requirements.
+
+5. PASSWORD AND AUTHENTICATION REQUIREMENTS
+
+All Meridian system accounts must meet the following minimum security standards:
+
+- Minimum password length: 12 characters
+- Passwords must include uppercase, lowercase, numbers, and special characters
+- Passwords must not be reused from the previous 12 passwords
+- Multi-factor authentication (MFA) is required for all Meridian systems, including email, VPN, code repositories, and cloud infrastructure
+- Passwords must not be shared with colleagues, IT staff, or any other party
+
+If you suspect your account credentials have been compromised, change your password immediately and notify it-security@meridiantech.com.
+
+6. SOFTWARE INSTALLATION
+
+Only software approved by the IT department may be installed on company devices. The approved software list and installation requests are managed through the IT Service Portal at it-portal.meridiantech.internal. Installing unapproved software — including freeware, trial software, browser extensions not on the approved list, or personal applications — is prohibited without prior IT approval.
+
+7. MONITORING AND PRIVACY
+
+Meridian Technologies reserves the right to monitor, log, and audit all activity conducted on company-owned systems and networks. This includes email, web browsing, file access, application usage, and communications through company tools. Employees should have no expectation of privacy when using company equipment or networks, even for personal communications. Monitoring is conducted for legitimate business and security purposes.
+
+8. INCIDENT REPORTING
+
+Employees must report any suspected security incident, data breach, lost or stolen device, or policy violation to the Information Security team within 1 hour of discovery:
+
+Email: it-security@meridiantech.com
+Emergency Security Line: ext. 5911 (internal) | +1-415-555-0911 (external)
+
+Prompt reporting is critical to limiting the impact of security incidents. Failure to report a known security incident is itself a policy violation.
+
+9. REMOTE WIPE
+
+IT reserves the right to remotely wipe any company-owned or MDM-enrolled device in the event of loss, theft, suspected compromise, or employee departure. Employees should maintain no personal data exclusively on company devices that they are not prepared to lose.
+
+10. BRING YOUR OWN DEVICE (BYOD)
+
+Personal devices used to access Meridian email, Slack, or other company systems must be enrolled in Meridian's Mobile Device Management (MDM) system prior to use. MDM enrollment is done through the IT Service Portal. By enrolling a personal device, employees consent to IT visibility into device compliance status and the ability to remotely wipe company data (not personal data) from the device.
+
+For questions or to report an incident, contact it-security@meridiantech.com.
