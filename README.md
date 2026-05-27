@@ -38,7 +38,9 @@ At runtime, Cortex follows one of four primary paths plus memory enrichment:
 
 
 ## 3) RAG Pipeline Diagram
-![alt text](<Screenshot 2026-05-27 at 1.00.31 AM.png>)
+
+<img width="1196" height="317" alt="Screenshot 2026-05-27 at 2 06 35 AM" src="https://github.com/user-attachments/assets/ca70c7a7-dc04-46a2-87b9-3b0b7eb9de87" />
+
 
 **Important:** ingestion is an explicit step. It does **not** run automatically on every query.
 
