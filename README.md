@@ -33,8 +33,8 @@ At runtime, Cortex follows one of four primary paths plus memory enrichment:
    - Memory context can be injected into downstream agent behavior.
 
 ## 2) Architecture Diagram
-![alt text](<Screenshot 2026-05-27 at 12.58.06 AM.png>)
-<img width="696" height="356" alt="Screenshot 2026-05-27 at 2 04 18 AM" src="https://github.com/user-attachments/assets/c53efa80-b244-4a97-981d-0a4147c65742" />
+<img width="1217" height="543" alt="Screenshot 2026-05-27 at 2 08 01 AM" src="https://github.com/user-attachments/assets/dd027645-028b-49db-8d43-0c738e8885eb" />
+
 
 
 ## 3) RAG Pipeline Diagram
